@@ -1,0 +1,23 @@
+{
+  "name": "provase",
+  "version": "1.0.0",
+  "description": "Prova se2",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omarechbiki/provase.git"
+  },
+  "keywords": [
+    "se2",
+    "prova"
+  ],
+  "author": "omarechbiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omarechbiki/provase/issues"
+  },
+  "homepage": "https://github.com/Omarechbiki/provase#readme"
+}
