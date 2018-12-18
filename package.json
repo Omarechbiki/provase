@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Omarechbiki/provase/issues"
   },
-  "homepage": "https://github.com/Omarechbiki/provase#readme"
+  "homepage": "https://github.com/Omarechbiki/provase#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^1.18.9"
+  }
 }
